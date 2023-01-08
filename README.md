@@ -31,11 +31,11 @@ This module contains 65 condition markers:
 
 ![icon set #1, 20 images](https://github.com/BradleyStaples/dnd5e-status-icons-2/raw/main/img/icon-set-1.jpg)
 
-![icon set #2, 20 images](https://github.com/BradleyStaples/dnd5e-status-icons-2/raw/main/img/icon-set-2.jpg)
+![icon set #2, 20 images](https://github.com/BradleyStaples/dnd5e-status-icons-2/raw/main/img/icon-set-2.png)
 
-![icon set #3, 22 images](https://github.com/BradleyStaples/dnd5e-status-icons-2/raw/main/img/icon-set-3.jpg)
+![icon set #3, 22 images](https://github.com/BradleyStaples/dnd5e-status-icons-2/raw/main/img/icon-set-3.png)
 
-# Related Modules
+## Related Modules
 
 No other modules are required to use these icons, but I recommend:
 
@@ -47,6 +47,9 @@ No other modules are required to use these icons, but I recommend:
 #token-hud .status-effects .effect-control { height: 40px !important; width: 40px !important; }
 ```
 
-|Before:|After:|
-|---|----|
-|![icons arranged by default](https://github.com/BradleyStaples/dnd5e-status-icons-2/raw/main/img/css-icons-before.png)|![enlarged icons in a wider grid](https://github.com/BradleyStaples/dnd5e-status-icons-2/raw/main/img/css-icons-after.png)|
+#### Before
+|![icons arranged by default](https://github.com/BradleyStaples/dnd5e-status-icons-2/raw/main/img/css-icons-before.png)
+
+#### After
+
+![enlarged icons in a wider grid](https://github.com/BradleyStaples/dnd5e-status-icons-2/raw/main/img/css-icons-after.png)|
