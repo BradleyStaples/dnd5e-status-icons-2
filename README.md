@@ -10,7 +10,7 @@ Furthermore, this repo was forked from [orangetruth](https://github.com/orangetr
 
 ## Details
 
-This module contains 65 condition markers:
+This module contains 64 condition markers:
 
 ||||||
 |----------|----------|----------|----------|----------|
@@ -26,7 +26,7 @@ This module contains 65 condition markers:
 |Blur|Eagle's Splendor|Insightful Fighting|Raging|Truesight|
 |Bull's Strength|Entangled|Inspired|Reaction Used|Unconcious|
 |Cat's Grace|Exhausted|Invisible|Restrained|Warding Bond|
-|Cause of Fear|Flying|Mage Armor|Sanctuary|Wounded|
+|Cause of Fear|Flying|Mage Armor|Sanctuary| |
 
 
 ![icon set #1, 20 images](https://github.com/BradleyStaples/dnd5e-status-icons-2/raw/main/img/icon-set-1.jpg)
@@ -43,8 +43,14 @@ No other modules are required to use these icons, but I recommend:
 * [Custom CSS Rules](https://foundryvtt.com/packages/custom-css) (along with its dependency [Code Mirror](https://foundryvtt.com/packages/_CodeMirror)): Custom CSS Rules allows you to customize the CSS for the display of the icons. Add this rule to your Custom CSS Rules under Module Settings to enlarge the icons and set the status effects pane to be 10 icons wide:
 
 ```css
-#token-hud .status-effects { top: -275% !important; width: 400px !important; grid-template-columns: 40px 40px 40px 40px 40px 40px 40px 40px 40px 40px !important; }
-#token-hud .status-effects .effect-control { height: 40px !important; width: 40px !important; }
+#token-hud .status-effects {
+  width: 320px !important;
+  grid-template-columns: 40px 40px 40px 40px 40px 40px 40px 40px !important;
+}
+#token-hud .status-effects .effect-control {
+  height: 40px !important;
+  width: 40px !important;
+}
 ```
 
 #### Before

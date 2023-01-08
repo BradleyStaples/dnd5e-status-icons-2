@@ -319,12 +319,14 @@ const dnd5eStatusIcons2 = (() => {
         "id": "warding-bond",
         "label": "Warding Bond",
         "icon": "modules/dnd5e-status-icons-2/img/conditions/warding-bond.png"
-    },
-    {
-        "id": "wounded",
-        "label": "Wounded",
-        "icon": "modules/dnd5e-status-icons-2/img/conditions/wounded.svg"
     }];
+    // removed wounded because it was the only red icon
+    // plus it made for a better 8x8 grid of icon
+    // {
+    //     "id": "wounded",
+    //     "label": "Wounded",
+    //     "icon": "modules/dnd5e-status-icons-2/img/conditions/wounded.svg"
+    // }
   };
 
   Hooks.once("ready", function () {
