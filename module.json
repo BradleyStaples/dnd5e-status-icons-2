@@ -19,7 +19,7 @@
             "email": "jinxshadow8086@gmail.com"
         }
     ],
-    "version": "1.1.1",
+    "version": "1.1.2",
     "compatibility": {
         "minimum": "10.270",
         "verified": "10.291"
@@ -30,13 +30,6 @@
     "readme": "https://github.com/BradleyStaples/dnd5e-status-icons-2/blob/main/README.md",
     "manifest": "https://github.com/BradleyStaples/dnd5e-status-icons-2/blob/main/module.json",
     "download": "https://github.com/BradleyStaples/dnd5e-status-icons-2/archive/master.zip",
-    "languages": [
-        {
-            "lang": "en",
-            "name": "English",
-            "path": "lang/en.json"
-        }
-    ],
     "scripts": [
         "./scripts/dnd5e-status-icons-2.js"
     ]
