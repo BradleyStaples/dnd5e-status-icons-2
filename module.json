@@ -28,7 +28,7 @@
     "url": "https://github.com/BradleyStaples/dnd5e-status-icons-2",
     "bugs": "https://github.com/BradleyStaples/dnd5e-status-icons-2/issues",
     "readme": "https://github.com/BradleyStaples/dnd5e-status-icons-2/blob/main/README.md",
-    "manifest": "https://github.com/BradleyStaples/dnd5e-status-icons-2/blob/main/module.json",
+    "manifest": "https://raw.githubusercontent.com/BradleyStaples/dnd5e-status-icons-2/main/module.json",
     "download": "https://github.com/BradleyStaples/dnd5e-status-icons-2/archive/master.zip",
     "scripts": [
         "./scripts/dnd5e-status-icons-2.js"
