@@ -48,7 +48,7 @@ No other modules are required to use these icons, but I recommend:
 ```
 
 #### Before
-|![icons arranged by default](https://github.com/BradleyStaples/dnd5e-status-icons-2/raw/main/img/css-icons-before.png)
+![icons arranged by default](https://github.com/BradleyStaples/dnd5e-status-icons-2/raw/main/img/css-icons-before.png)
 
 #### After
 
