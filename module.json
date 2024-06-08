@@ -19,10 +19,10 @@
             "email": "jinxshadow8086@gmail.com"
         }
     ],
-    "version": "1.1.4",
+    "version": "1.2.0",
     "compatibility": {
         "minimum": "10.270",
-        "verified": "10.291"
+        "verified": "11"
     },
     "system": "dnd5e",
     "url": "https://github.com/BradleyStaples/dnd5e-status-icons-2",
